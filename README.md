@@ -5,8 +5,7 @@ This is typescript template for various NodeJS projects. Template contains ESLin
 # Installation
 
 1. Click the 'Use this template' button and follow instructions
-   OR
-1. `git clone https://github.com/idrevnii/typescript-template`
+   OR `git clone https://github.com/idrevnii/typescript-template`
 
 2.Change the project name in `package.json' and you can start write your code :)
 
