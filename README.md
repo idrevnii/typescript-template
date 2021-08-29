@@ -4,7 +4,7 @@ This is typescript template for various NodeJS projects. Template contains ESLin
 
 # Installation
 
-1. Click the 'Use this template' button and follow instructions :)
+1. Click the 'Use this template' button and follow instructions
    OR
 1. `git clone https://github.com/idrevnii/typescript-template`
 
@@ -14,8 +14,10 @@ This is typescript template for various NodeJS projects. Template contains ESLin
 
 ## Commands
 
-- `develop` Will run nodemon, which will keep watch for changes in src and will restart your project
-- `build` Builds your project to ES5 JS
-- `start` Builds and start your project
-- `lint` Launches ESLint for linting your code
-- `format` Launches Prettier for format your code
+All commands below are written with `yarn` but you can also use `npm run`.
+
+- `yarn develop` Will run nodemon, which will keep watch for changes in src and will restart your project
+- `yarn build` Builds your project to ES5 JS
+- `yarn start` Builds and start your project
+- `yarn lint` Launches ESLint for linting your code
+- `yarn format` Launches Prettier for format your code
