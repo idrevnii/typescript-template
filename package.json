@@ -1,5 +1,5 @@
 {
-  "name": "typescript-template",
+  "name": "merchant",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -20,5 +20,9 @@
     "rimraf": "^3.0.2",
     "ts-node": "^10.0.0",
     "typescript": "^4.4.2"
+  },
+  "dependencies": {
+    "mongodb": "^4.1.1",
+    "telegraf": "3.39"
   }
 }

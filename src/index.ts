@@ -1,5 +1,9 @@
-function hello() {
-  console.log('Hello world!')
+import { initBot } from './bot/app'
+import { initDb } from './db/init'
+
+async function start() {
+  await initDb()
+  await initBot()
 }
 
-hello()
+start()
