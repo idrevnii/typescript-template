@@ -8,9 +8,7 @@ This is typescript template for various NodeJS projects. Template contains ESLin
 
 2. Change the project name in `package.json' and you can start write your code :)
 
-# Usage
-
-## Commands
+# Commands
 
 All commands below are written with `yarn` but you can also use `npm run`.
 
