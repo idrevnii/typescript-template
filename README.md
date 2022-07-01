@@ -13,7 +13,7 @@ This is typescript template for various NodeJS projects. Template contains ESLin
 All commands below are written with `yarn` but you can also use `npm run`.
 
 - `yarn develop` Will run nodemon, which will keep watch for changes in src and will restart your project
-- `yarn build` Builds your project to ES5 JS
+- `yarn build` Builds your project to JS
 - `yarn start` Builds and start your project
 - `yarn lint` Launches ESLint for linting your code
 - `yarn format` Launches Prettier for format your code
